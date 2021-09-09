@@ -14,6 +14,37 @@
             { "id": "4", "text": "Ya" }
           ],
           "rightAnswerId": "4"
+        },
+        {
+          "id": "2",
+          "text": "Who is the best CSGO player?",
+          "answers": [
+            { "id": "1", "text": "Dendi" },
+            { "id": "2", "text": "S1mple" },
+            { "id": "3", "text": "rain" },
+            { "id": "4", "text": "goblak" }
+          ],
+          "rightAnswerId": "4"
+        },
+        {
+          "id": "3",
+          "text": "Who won TI1?",
+          "answers": [
+            { "id": "1", "text": "NAVI" },
+            { "id": "2", "text": "VP" },
+            { "id": "3", "text": "EHOME" },
+            { "id": "4", "text": "LIQUID" }
+          ],
+          "rightAnswerId": "4"
+        },
+        {
+          "id": "4",
+          "text": "GOOD QUIZ?",
+          "answers": [
+            { "id": "1", "text": "YES" },
+            { "id": "2", "text": "NO" }
+          ],
+          "rightAnswerId": "4"
         }
       ]
     },
