@@ -3,6 +3,7 @@
     {
       "id": "1",
       "name": "History Quiz",
+      "numberOfQuestions": 4,
       "questions": [
         {
           "id": "1",
